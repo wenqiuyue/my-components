@@ -1,0 +1,30 @@
+{
+  "id": "3229048",
+  "name": "我的组件",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2423300",
+      "name": "无数据",
+      "font_class": "wushuju",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "1170789",
+      "name": "星星满",
+      "font_class": "xingxingman",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "1170788",
+      "name": "星星空",
+      "font_class": "xingxingkong",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    }
+  ]
+}
